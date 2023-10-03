@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719079028350",
+    "project_id": "myappstady",
+    "storage_bucket": "myappstady.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719079028350:android:161bdb50ed22ce729e4a2f",
+        "android_client_info": {
+          "package_name": "com.example.myappstady"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjiJybVTSl_kLeOO1knDnxOOBOfs8Z0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
